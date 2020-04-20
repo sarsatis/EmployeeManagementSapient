@@ -1,0 +1,13 @@
+employeename,title,businessunit,place,supervisorid,competencies,salary
+Vikas,VP,FIAM,Bangalore,Gopal,Java,1000
+Vinay,Manager,ISE,Bangalore,Vikas,Java,900
+Siva,Manager,VINYASA,Chennai,Vikas,Java,900
+Rajani,Manager,PROD,Chennai,Vikas,Java,900
+Kunal,SSE,PROD,Mumbai,Rajani,Java,500
+Swaraj,SE,PROD,Mumbai,Rajani,Java,100
+Sarthak,SE,ISE,Hyderabad,Vinay,Java,100
+Gnanesh,SSE,ISE,Hyderabad,Vinay,Java,500
+Narendar,PSE,ISE,Delhi,Vinay,Java,800
+Vanya,PO,VINYASA,Delhi,Siva,Java,800
+Arun,SE,VINYASA,Delhi,Siva,Java,100
+Raghu,SSE,VINYASA,Delhi,Siva,Java,500

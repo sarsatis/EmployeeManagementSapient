@@ -1,0 +1,18 @@
+---
+applications:
+- name: EmployeeManagement
+  random-route: true
+  instances: 1
+  memory : 1024M
+  path: target/EmployeeManagement-0.0.1-SNAPSHOT.jar
+  services:
+    - EmployeeMySql
+    - EmployeeRedis
+  buildpacks:
+  - https://github.com/cloudfoundry/java-buildpack.git#v4.16.1   
+
+
+    
+    
+    
+    
